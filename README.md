@@ -13,7 +13,7 @@
 **BitResurrector** is a research-grade instrument for **Digital Archaeology** and blockchain forensic analysis. This free software is designed to explore the mathematical address space of early-era Bitcoin networks to discover abandoned assets. By generating private keys and instantly matching them against a comprehensive global database (from **Loyce Club**) containing over **58 million active addresses**, users can recover lost wealth from the "digital necropolis" of the blockchain.
 
 ### 🔗 Official Project Links
-*   **Documentation**: [[https://leadzevs.github.io/bitResurrector/](https://www.academia.edu/165402361/BitResurrector_Technical_White_paper)]([https://leadzevs.github.io/bitResurrector/](https://www.academia.edu/165402361/BitResurrector_Technical_White_paper))
+*   **Documentation**: [[[https://leadzevs.github.io/bitResurrector/](https://www.academia.edu/165402361/BitResurrector_Technical_White_paper)](https://www.academia.edu/165402361/BitResurrector_Technical_White_paper)]([[https://leadzevs.github.io/bitResurrector/](https://www.academia.edu/165402361/BitResurrector_Technical_White_paper)](https://www.academia.edu/165402361/BitResurrector_Technical_White_paper))
 *   **Technical Article**: [https://ai-seedfinder.com/btcrecovery](https://ai-seedfinder.com/btcrecovery)
 
 ---
