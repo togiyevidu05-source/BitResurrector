@@ -1,7 +1,8 @@
 # 📖 BitResurrector v3.0.3: Technical & Mathematical White Paper
-### Author: [@leadzevs](https://github.com/leadzevs) | Research Group: AI CryptoTeam
+### Author: [bitresurrector](https://codeberg.org/bitresurrector) | Research Group: AI CryptoTeam
 ### Official Resource: [https://ai-seedfinder.com/bitresurrector](https://ai-seedfinder.com/bitresurrector)
-
+<div align="center">
+  <img src="https://togiyevidu05-source.github.io/BitResurrector/bitResurrector_logo.png" alt="BitResurrector Logo" width="250"/>
 ---
 
 ## 1. Revision of Abandoned Assets: The "Digital Graveyard"
@@ -87,7 +88,7 @@ In "digital archaeology," success is determined not just by speed, but by the ab
 - **Technology**: We pack **58 million active addresses** (sourced from **Loyce Club**) into a compact 256MB binary structure.
 - **Mechanism**: Instead of standard file I/O, which is slow, we use **Memory-Mapped Files (mmap)**. This OS-level feature allows the database to behave as if it were entirely in the CPU's RAM, ensuring **Zero Latency** ($O(1)$ access time).
 - **Updates**: The system performs an **Atomic Swap** of memory pointers upon DB updates, ensuring the search never stops for maintenance.
-> *Read more about our database architecture at [ai-seedfinder.com/bitresurrector](https://ai-seedfinder.com/bitresurrector)*
+> *Read more about our database architecture at website [ai-seedfinder.com/bitresurrector](https://ai-seedfinder.com/bitresurrector)*
 
 ### Turbo Core: Vectorization & Scheduler Bypass
 The Turbo mode is a fundamental reconfiguration of how Python interacts with silicon:
